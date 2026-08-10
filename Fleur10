@@ -8,12 +8,12 @@
     {
         "device_id": "device456",
         "key": "key67890",
-        "expirydate": "15-06-2025",
+        "expirydate": "12-08-2026",
         "Allowoffline": false
     }, 
     {
         "device_id": "1b4a4fa1e6aa4f53",
         "key": "yunjin",
-        "expirydate": "15-06-2025",
+        "expirydate": "12-08-2026",
         "Allowoffline": false
     }
